@@ -18,6 +18,6 @@
 
 - Follow the steps provided in the Downloads [Page](https://developer.hashicorp.com/terraform/downloads) for Linux.
 
-## macOS
+## macOS1
 
 - Follow the steps provided in the Downloads [Page](https://developer.hashicorp.com/terraform/downloads) for macOS.
